@@ -1,0 +1,39 @@
+// Place all the styles related to the inst controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.maincontents{
+  text-align: center;
+  padding: 20px 20px 20px 35px;
+  .row{
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+  }
+}
+
+.flash{
+  color: #FF0000;
+
+}
+
+.navbar-default {
+    border: 0;
+    padding: 5px 25px;
+}
+.navbar {
+    color: #959595;
+    margin-bottom: 0px;
+}
+
+.main-header{
+
+}
+
+.page-default{
+  text-align: center;
+}
+
+.btnsetting{
+  margin: 10px auto;
+  padding: 5px auto;
+}
